@@ -2,7 +2,7 @@
     "inputs": [
         {
             "data": [
-                "Once upon a time"
+                "A horse near a beach"
             ],
             "name": "prompt",
             "shape": [
